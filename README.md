@@ -1,7 +1,8 @@
 # -LGD-Production-Quality-Report-Dashboard
 # LG Display 생산·품질 보고서 웹 서비스
 
-## 날짜
+## 날짜<img width="918" height="743" alt="스크린샷 2026-09-14 171315" src="https://github.com/user-attachments/assets/8768bb84-968d-4d2b-9f35-16353ae1b608" />
+
 2026년 09월 14일
 
 ---
